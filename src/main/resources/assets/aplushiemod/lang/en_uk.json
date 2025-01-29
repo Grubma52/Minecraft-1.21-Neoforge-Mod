@@ -1,3 +1,7 @@
 {
-  "item.aplushiemod.suspicious_substance": "Suspicious Substance"
+  "item.aplushiemod.suspicious_substance": "Suspicious Substance",
+
+  "block.aplushiemod.block_of_cozyness": "Block of Cozyness",
+
+  "creativetab.aplushiemod.aplushiemod": "A Plushie Mod!"
 }

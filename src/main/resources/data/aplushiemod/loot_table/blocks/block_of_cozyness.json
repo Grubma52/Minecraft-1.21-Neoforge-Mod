@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "aplushiemod:block_of_cozyness"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "aplushiemod:blocks/block_of_cozyness"
+}

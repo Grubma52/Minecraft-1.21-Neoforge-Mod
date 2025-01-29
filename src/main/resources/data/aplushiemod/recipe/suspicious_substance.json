@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:redstone"
+      },
+      {
+        "item": "minecraft:glowstone_dust"
+      }
+    ],
+    {
+      "item": "minecraft:purple_dye"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "aplushiemod:suspicious_substance"
+  }
+}
